@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Dynamic Wavy Gradient Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=220&section=header&text=Chauhan%20Raj%20K&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descSize=18&descAlign=50&descAlignY=70" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=220&section=header&text=Chauhan%20Raj%20K&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20ML%20%26%20DL%20Engineer&descSize=18&descAlign=50&descAlignY=70" width="100%" alt="Chauhan Raj K" />
 
   <!-- Animated Typing Subtitle -->
   <a href="https://git.io/typing-svg">
