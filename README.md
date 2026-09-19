@@ -20,9 +20,10 @@
 ### 🛠️ Tech Arsenal & Stack
 
 #### Languages & Core
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java%20(DSA)-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 #### AI & Intelligent Systems
 ![ML/DL](https://img.shields.io/badge/Machine%20Learning%20%26%20DL-6366F1?style=for-the-badge&logo=scikitlearn&logoColor=white)
@@ -47,6 +48,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-chauhan--raj--k-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chauhan-raj-k)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Chauhanrajk007-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Chauhanrajk007)
 [![Email](https://img.shields.io/badge/Email-chauhanrajk007%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chauhanrajk007@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chauhanrajk007.github.io/raj-portfolio)
 
 </div>
