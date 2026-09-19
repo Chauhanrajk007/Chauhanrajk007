@@ -6,7 +6,7 @@
 
 [![Available](https://img.shields.io/badge/Status-Available%20for%20Opportunities-059669?style=for-the-badge&logo=statuspage&logoColor=white)](#)
 [![LeetCode Java](https://img.shields.io/badge/LeetCode-90%2B%20Solved%20(Java)-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Chauhanrajk007)
-[![Hackathon](https://img.shields.io/badge/Hackathons-2x%20Finalist%20(3rd%20Place)-8B5CF6?style=for-the-badge&logo=airplayvideo&logoColor=white)](#)
+[![Hackathon](https://img.shields.io/badge/Hackathons-2x%202nd%20Runner--Up-8B5CF6?style=for-the-badge&logo=airplayvideo&logoColor=white)](#)
 
 <br/>
 
