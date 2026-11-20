@@ -6,8 +6,7 @@
 
 [![Available](https://img.shields.io/badge/Status-Available%20for%20Opportunities-059669?style=for-the-badge&logo=statuspage&logoColor=white)](#)
 [![LeetCode Java](https://img.shields.io/badge/LeetCode-90%2B%20Solved%20(Java)-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Chauhanrajk007)
-[![Hackathon](https://img.shields.io/badge/Hackathons-2x%202nd%20Runner--Up%20%7C%203x%202nd%20Place%20%7C%201x%204th%20Place-8B5CF6?style=for-the-badge&logo=airplayvideo&logoColor=white)](#)
-
+[![Hackathon](https://img.shields.io/badge/Hackathons-3x%202nd%20Place%20%7C%202x%203rd%20Place%20%7C%201x%204th%20Place-8B5CF6?style=for-the-badge&logo=airplayvideo&logoColor=white)](#)
 <br/>
 
 > 🎓 **B.E / B.Tech — CSE (IoT)** @ Presidency University  
